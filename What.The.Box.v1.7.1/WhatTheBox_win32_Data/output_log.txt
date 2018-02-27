@@ -1,0 +1,3564 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.13.6839
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\PandaBehaviour.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\PandaBehaviour.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\GameSparks.Api.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\GameSparks.Api.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\GameSparks.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\GameSparks.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\GameSparksRT.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\GameSparksRT.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\TinyJSON.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\TinyJSON.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Cloud.Analytics.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Cloud.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Cloud.Analytics.Util.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\UnityEngine.Cloud.Analytics.Util.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Triangle.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Rewired_Core.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Rewired_Core.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Rewired_Windows_Lib.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Rewired_Windows_Lib.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DemiLib.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DemiLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.030 seconds
+OnLevelWasLoaded was found on PhotonHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+OnLevelWasLoaded was found on PlayerManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+OnLevelWasLoaded was found on ToDemoHubButton
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+OnLevelWasLoaded was found on GameObserver
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 380)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Wall2by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'BoxLogo') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (13)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (12)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'UNOShaderData') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (6)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (11)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (11)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (13)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (12)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (10)') is missing!
+ 
+(Filename:  Line: 1758)
+
+UnloadTime: 1.732291 ms
+Non platform assembly: data-20918980 (this message is harmless)
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/data-20918980.dll
+Non platform assembly: data-209DA800 (this message is harmless)
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/data-209DA800.dll
+Non platform assembly: data-225E0020 (this message is harmless)
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/data-225E0020.dll
+Rewired: Searching for compatible XInput library...
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/xinput1_4.dll
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/.\xinput1_4.dll
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/xinput1_4.dll
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/xinput1_4
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/.\xinput1_4
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/xinput1_4
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/libxinput1_4.dll
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/.\libxinput1_4.dll
+Fallback handler could not load library C:/Users/Administrator/Desktop/What.The.Box.v1.7.1/WhatTheBox_win32_Data/Mono/libxinput1_4.dll
+Rewired: Found Xinput1_3.dll.
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\System.Xml.dll (this message is harmless)
+Reading language Language_English
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+C:/Users/Administrator/AppData/LocalLow/DanielSnd/WhatTheBox/SavesDir/RocketFist_SaveData.wtb
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff00ff>[Steam Manager]</color><color=#ffeb04> Awake! </color>SteamManager / -248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff00ff>[Steam Manager]</color><color=#ffeb04> Instance set to this! </color>SteamManager / -248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff00ff>[Steam Manager]</color><color=#ffeb04> Loaded appID: </color><color=#00ffff>527340</color> /SteamManager / -248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff00ff>[Steam Manager]</color><color=#ffeb04> Initialization results: </color><color=#ff0000>FAILED</color>SteamManager / -248
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff0000>[Steamworks.NET] SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Steam Manager is <color=#ff0000>NOT INITIALIZED!</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#FFEB04FF>Connection state: </color>PeerCreated
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connect to name server True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InvalidOperationException: Header value contains invalid characters
+  at (wrapper managed-to-native) UnityEngine.Networking.UnityWebRequest:InternalSetRequestHeader (string,string)
+  at UnityEngine.Networking.UnityWebRequest.SetRequestHeader (System.String name, System.String value) [0x00000] in <filename unknown>:0 
+  at UnityEngine.WWW..ctor (System.String url, System.Byte[] postData, System.Collections.Generic.Dictionary`2 headers) [0x00000] in <filename unknown>:0 
+  at GoogleUniversalAnalytics.beginWWWRequest (System.String postDataString) [0x00000] in <filename unknown>:0 
+  at GoogleUniversalAnalytics.finalizeAndSendHit (Boolean needReturnWWW) [0x00000] in <filename unknown>:0 
+  at GoogleUniversalAnalytics+<netActivity>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+GoogleUniversalAnalytics:initialize(MonoBehaviour, String, String, String, String, Boolean, String)
+Analytics:Awake()
+ 
+(Filename:  Line: -1)
+
+Steam not initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SFX Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: Connecting to:wss://live-y301975Rrls7.ws.gamesparks.net/ws/y301975Rrls7?deviceOS=WP8&deviceID=b9c6697f75b2ad4f3742f7aa0ea366966060f0ba&SDK=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\Administrator\Desktop\What.The.Box.v1.7.1\WhatTheBox_win32_Data\Managed\Mono.Security.dll (this message is harmless)
+Latest is 171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#00ff00>Connected to region</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: OPENED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: RECV:{"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw001-se12.gamesparks.net/ws/y301975Rrls7?deviceOS=WP8&deviceID=b9c6697f75b2ad4f3742f7aa0ea366966060f0ba&SDK=","requestId": "0"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: Connecting to:wss://gsp-auw001-se12.gamesparks.net/ws/y301975Rrls7?deviceOS=WP8&deviceID=b9c6697f75b2ad4f3742f7aa0ea366966060f0ba&SDK=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff0000>SteamManager not logged in :(</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff0000>SteamManager not logged in :(</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.ArgumentException: Can't use encryption yet. Exchange keys first.
+  at ExitGames.Client.Photon.PhotonPeer.OpCustom (Byte customOpCode, System.Collections.Generic.Dictionary`2 customOpParameters, Boolean sendReliable, Byte channelId, Boolean encrypt) [0x00000] in <filename unknown>:0 
+  at LoadBalancingPeer.OpGetRegions (System.String appId) [0x00000] in <filename unknown>:0 
+  at NetworkingPeer.GetRegions () [0x00000] in <filename unknown>:0 
+  at WhatTheBox.CxLauncher+<WaitAndGetRegions>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at MovementEffects.Timing.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ConnectToRegion() failed. Can only connect while in state 'Disconnected'. Current state: Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: OPENED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: RECV:{"@class":".AuthenticatedConnectResponse","nonce":"a92cb079-5ba4-46b9-a261-6e726ce9d54a","requestId":"0"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: SEND:{"@class":".AuthenticatedConnectRequest","hmac":"iCSyOqsRoZS5/REkTHGwylXCmqQ2acV0t/IrwwQcK+I=","os":"WP8","platform":"WindowsPlayer","deviceId":"b9c6697f75b2ad4f3742f7aa0ea366966060f0ba"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: RECV:{"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"a92cb079-5ba4-46b9-a261-6e726ce9d54a"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GS: Available
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (50)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (44)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (41)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (54)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (43)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (51)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (49)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (37)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (46)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (47)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (35)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (56)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (38)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (53)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (42)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (34)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (48)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (40)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (45)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (55)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (52)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'UNOShaderData') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (36)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (33)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.677143 ms
+Setting new music to be JamesBoxes index 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 15291.
+Total: 20.034623 ms (FindLiveObjects: 0.795162 ms CreateObjectMapping: 0.608265 ms MarkObjects: 17.870769 ms  DeleteObjects: 0.759293 ms)
+
+SFX Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Who dealt that box?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game mode is OneShot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We are Instantiating LocalPlayer from RecyclingPlant
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Playerprefs AO False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Settings database not set on LosManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Settings database not set on LosManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Settings database not set on LosManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 199c -> priority: 1 
+  Thread -> id: 97c -> priority: 1 
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'BoxLogo') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (13)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (12)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'UNOShaderData') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (6)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (11)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (11)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (13)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (12)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (10)') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.493587 ms
+Reading language Language_English
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Steam Manager is <color=#ff0000>NOT INITIALIZED!</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Only one active instance of 'DomainManager' allowed in all scenes!
+This object will now be destroyed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Only one active instance of 'CapitalizationManager' allowed in all scenes!
+This object will now be destroyed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Only one active instance of 'PunctuationManager' allowed in all scenes!
+This object will now be destroyed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Only one active instance of 'BadWordManager' allowed in all scenes!
+This object will now be destroyed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 550)
+
+
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 9734.
+Total: 22.724054 ms (FindLiveObjects: 0.464411 ms CreateObjectMapping: 0.601091 ms MarkObjects: 19.785804 ms  DeleteObjects: 1.871237 ms)
+
+Steam not initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SFX Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff0000>SteamManager not logged in :(</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff0000>SteamManager not logged in :(</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Latest is 171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (50)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (44)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (41)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (54)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (43)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (51)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (49)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (37)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (46)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (47)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (35)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (56)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (38)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (53)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (42)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (34)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (48)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (40)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (45)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (55)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (52)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'UNOShaderData') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (36)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (33)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.808743 ms
+Setting new music to be MisteriousBox index 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 15448.
+Total: 22.865266 ms (FindLiveObjects: 0.760048 ms CreateObjectMapping: 0.520669 ms MarkObjects: 20.828275 ms  DeleteObjects: 0.755140 ms)
+
+SFX Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Who dealt that box?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game mode is OneShot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We are Instantiating LocalPlayer from RecyclingPlant
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Playerprefs AO False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Settings database not set on LosManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Settings database not set on LosManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Settings database not set on LosManager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected() Guest2457
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Entered BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider found BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The Text Container component is now Obsolete and can safely be removed from [NameShow(Clone)].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest2457
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected() Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+OnPhotonPlayerConnected() ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 31.963194 ms
+Loaded a new map... Reload  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Reload  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Reload  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Reload  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Reload  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 99 unused Assets to reduce memory usage. Loaded Objects now: 7314.
+Total: 26.398189 ms (FindLiveObjects: 0.344343 ms CreateObjectMapping: 0.316781 ms MarkObjects: 23.869602 ms  DeleteObjects: 1.865951 ms)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (25)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (28)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (15)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (32)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (31)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (29)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (23)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (26)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (21)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (16)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (27)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Poster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (30)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (24)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (22)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Stairs') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsCollider') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (17)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (20)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (19)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'UNOShaderData') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (18)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (33)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Cube') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.415327 ms
+Setting new music to be SnakeInABox index 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Warehouse  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Warehouse  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Warehouse  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Warehouse  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Warehouse  Players: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 14294.
+Total: 50.744662 ms (FindLiveObjects: 1.571069 ms CreateObjectMapping: 1.445715 ms MarkObjects: 46.734868 ms  DeleteObjects: 0.991499 ms)
+
+Playerprefs AO False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Contain yourself
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game mode is OneShot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring scene load for Warehouse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Playerprefs AO False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Playerprefs AO False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SFX Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entered BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider found BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The Text Container component is now Obsolete and can safely be removed from [NameShow(Clone)].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected() Lotus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Lotus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entered BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerDisconnected() ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The Text Container component is now Obsolete and can safely be removed from [NameShow(Clone)].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The Text Container component is now Obsolete and can safely be removed from [NameShow(Clone)].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Lotus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Lotus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected() ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Entered BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entered BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned Lotus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entered BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collider found BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned Lotus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerDisconnected() Lotus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Entered BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Spawned ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected() Coelhogamer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'DeadBox') is missing!
+ 
+(Filename:  Line: 1758)
+
+Spawned Coelhogamer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerDisconnected() ЩШГОЩО
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerDisconnected() Coelhogamer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.755038 ms
+Loaded a new map... Reload  Players: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Reload  Players: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Reload  Players: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... Reload  Players: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 7274.
+Total: 46.625750 ms (FindLiveObjects: 0.667166 ms CreateObjectMapping: 0.578437 ms MarkObjects: 43.339380 ms  DeleteObjects: 2.038123 ms)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (48)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (16)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_Door6Wall10by1_Door6Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (50)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (32)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall4by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door4Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (39)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (51)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (14)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_Door6Wall10by1_Door6Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall4by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_Door6Wall10by1_Door6Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (17)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (46)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (24)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (15)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1 Instance') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall4by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Poster (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (16)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall2by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (44)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall4by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (53)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (17)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_Door6Wall10by1_Door6Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door2Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (15)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (56)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_Door6Wall10by1_Door6Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (54)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door4Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (13)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall4by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (40)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Blue SpawnArea (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Poster (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (20)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (36)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (35)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (33)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (19)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (49)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Blue SpawnArea (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (22)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark Instance') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Blue SpawnArea') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (25)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1 Instance') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (20)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (43)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (52)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (42)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Blue SpawnArea') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (19)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1 Instance') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (26)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (21)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (15)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (38)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (30)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (16)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (45)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door4Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'pb-MergedObject-2487320') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsClosedBig_size_x8_y5_z9') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (57)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsClosedBig_size_x8_y5_z9 (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (18)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (20)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (23)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (14)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (29)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (21)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (18)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door4Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Poster (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall2by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (19)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_Door6Wall10by1_Door6Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (41)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (22)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '_Door6Wall10by1_Door6Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (22)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (37)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (34)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (31)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Door4Wall6by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (28)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (17)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (18)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (55)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'UNOShaderData') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'StairsClosedBig_size_x8_y5_z9 (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Poster') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1Dark') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (21)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (47)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall6by1 Instance') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'SpawnArea (13)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Ground10by10Lighter (27)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Wall10by1') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.533506 ms
+The Text Container component is now Obsolete and can safely be removed from [TextMeshPro (2)].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The Text Container component is now Obsolete and can safely be removed from [TextMeshPro (1)].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting new music to be CaoticBoxes index 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... CTT_Warehouse  Players: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned BearB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... CTT_Warehouse  Players: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... CTT_Warehouse  Players: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded a new map... CTT_Warehouse  Players: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Factory%Warehouse%CTT_Warehouse%RecyclingPlant%SnowyMountains
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Got custom maps 
+Factory
+Warehouse
+CTT_Warehouse
+RecyclingPlant
+SnowyMountains
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 27169.
+Total: 32.568061 ms (FindLiveObjects: 1.679809 ms CreateObjectMapping: 1.066257 ms MarkObjects: 27.892233 ms  DeleteObjects: 1.928627 ms)
+
+Playerprefs AO False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Playerprefs AO False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Playerprefs AO False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SFX Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Contain yourself
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game mode is OneShot
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ignoring scene load for CTT_Warehouse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyphInternal (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_FontUtilities.SearchForGlyph (TMPro.TMP_FontAsset font, Int32 character, TMPro.TMP_Glyph& glyph) [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.SetArraySizes (System.Int32[] chars) [0x00000] in <filename unknown>:0 
+  at TMPro.TMP_Text.ParseInputText () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.OnPreRenderCanvas () [0x00000] in <filename unknown>:0 
+  at TMPro.TextMeshProUGUI.Rebuild (CanvasUpdate update) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.CanvasUpdateRegistry.PerformUpdate () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+UnityEngine.Canvas:SendWillRenderCanvases()
+ 
+(Filename:  Line: -1)
+
+Runtime Mesh Batcher warning: Calling UncombineMeshes with null parent GameObject.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Guest260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerDisconnected() beerB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnPhotonPlayerConnected isMasterClient True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The Text Container component is now Obsolete and can safely be removed from [NameShow(Clone)].
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entered BoxPlayer(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned shen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'BoxLogo') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (13)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (5)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (12)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'UNOShaderData') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (6)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (11)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (11)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (8)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (9)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (13)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (2)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (1)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (7)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (3)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (4)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (12)') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Box (10)') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 48.565705 ms
+Reading language Language_English
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+-1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Steam Manager is <color=#ff0000>NOT INITIALIZED!</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[ACTk] Anti-Cheat Toolkit Detectors: self-destroying, other instance already exists & only one instance allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 550)
+
+
+Unloading 287 unused Assets to reduce memory usage. Loaded Objects now: 9990.
+Total: 34.056442 ms (FindLiveObjects: 0.524822 ms CreateObjectMapping: 0.673962 ms MarkObjects: 31.920906 ms  DeleteObjects: 0.935241 ms)
+
+Steam not initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SFX Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Music Volume 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Latest is 171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff0000>SteamManager not logged in :(</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<color=#ff0000>SteamManager not logged in :(</color>
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -1,0 +1,25 @@
+[22:54:45] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[22:54:45] [Server thread/INFO]: Loading properties
+[22:54:45] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: 控制代碼無效。
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_144]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.fill(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_144]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:86) [craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+[22:54:45] [Server thread/INFO]: Default game type: SURVIVAL
+[22:54:45] [Server thread/INFO]: Generating keypair
+[22:54:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:54:45] [Server thread/INFO]: Using default channel type
+[22:54:46] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[22:54:46] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use: bind
+[22:54:46] [Server thread/WARN]: Perhaps a server is already running on that port?
+[22:54:46] [Server thread/INFO]: Stopping server

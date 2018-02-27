@@ -1,0 +1,25 @@
+[18:22:14] [Server thread/INFO]: Loading properties
+[18:22:14] [Server thread/INFO]: Default game type: SURVIVAL
+[18:22:14] [Server thread/INFO]: Generating keypair
+[18:22:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:22:14] [Server thread/INFO]: Using default channel type
+[18:22:15] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-b8f84f3 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[18:22:15] [Server thread/INFO]: [AutoShutdown] Loading AutoShutdown v2.4-1.4.2
+[18:22:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:22:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:22:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:22:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:22:15] [Server thread/INFO]: Preparing level "world"
+[18:22:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3304855786440076192)
+[18:22:17] [Server thread/INFO]: Preparing spawn area: 22%
+[18:22:18] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4312998541945672797)
+[18:22:19] [Server thread/INFO]: Preparing spawn area: 89%
+[18:22:19] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4312998541945672797)
+[18:22:19] [Server thread/INFO]: [AutoShutdown] Enabling AutoShutdown v2.4-1.4.2
+[18:22:19] [Server thread/INFO]: [AutoShutdown] Shutdown scheduled for Sun Nov 19 00:30:00 CST 2017
+[18:22:19] [Server thread/INFO]: [AutoShutdown] Shutdown scheduled for Sun Nov 19 00:30:00 CST 2017
+[18:22:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:22:19] [Server thread/INFO]: Done (4.330s)! For help, type "help" or "?"
+[19:14:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2212ms behind, skipping 44 tick(s)
+[19:29:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6217ms behind, skipping 124 tick(s)
+[19:30:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2027ms behind, skipping 40 tick(s)

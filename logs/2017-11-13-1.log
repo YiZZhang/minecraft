@@ -1,0 +1,36 @@
+[22:35:33] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: 控制代碼無效。
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_144]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.fill(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_144]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257) ~[craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+	at net.minecraft.server.v1_12_R1.DedicatedServer$2.run(DedicatedServer.java:86) [craftbukkit-1.12.2.jar:git-Bukkit-b8f84f3]
+[22:35:33] [Server thread/INFO]: Loading properties
+[22:35:33] [Server thread/INFO]: Default game type: SURVIVAL
+[22:35:33] [Server thread/INFO]: Generating keypair
+[22:35:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:35:33] [Server thread/INFO]: Using default channel type
+[22:35:34] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-b8f84f3 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[22:35:34] [Server thread/INFO]: [AutoShutdown] Loading AutoShutdown v2.4-1.4.2
+[22:35:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:35:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:35:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:35:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:35:34] [Server thread/INFO]: Preparing level "world"
+[22:35:34] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3304855786440076192)
+[22:35:35] [Server thread/INFO]: Preparing spawn area: 35%
+[22:35:36] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4312998541945672797)
+[22:35:37] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4312998541945672797)
+[22:35:37] [Server thread/INFO]: [AutoShutdown] Enabling AutoShutdown v2.4-1.4.2
+[22:35:37] [Server thread/INFO]: [AutoShutdown] Shutdown scheduled for Tue Nov 14 00:30:00 CST 2017
+[22:35:37] [Server thread/INFO]: [AutoShutdown] Shutdown scheduled for Tue Nov 14 00:30:00 CST 2017
+[22:35:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:35:37] [Server thread/INFO]: Done (3.417s)! For help, type "help" or "?"
